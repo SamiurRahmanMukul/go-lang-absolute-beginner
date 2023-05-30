@@ -1,3 +1,3 @@
-# go-lang-absolute-beginner
+# Go Language Absolute Beginner
 
-go-lang-absolute-beginner
+![banner](go-banner.png)
